@@ -1,0 +1,7 @@
+.Nav{
+    background: #8a49df;
+        height: 80px;
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+}

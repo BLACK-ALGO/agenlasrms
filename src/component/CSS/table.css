@@ -1,0 +1,12 @@
+
+
+table, th, tr, td {
+    border: 5px solid black;
+    border-collapse: collapse;
+  }
+
+
+  .dismod{
+    writing-mode: vertical-lr;
+    rotate: -180deg;
+  }
